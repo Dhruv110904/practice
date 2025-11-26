@@ -1,4 +1,4 @@
 # practice
-This repo is for practice only /n
-Name: Dhruv Jain /n
+This repo is for practice only /
+Name: Dhruv Jain /
 Reg no.: 12319448
